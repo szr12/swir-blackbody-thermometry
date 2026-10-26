@@ -1,0 +1,49 @@
+{
+  "title_en": "Dual-channel hyperspectral scans of ten real-object combustion scenes at four acquisition distances",
+  "title_zh": "十类实物燃烧场景的双通道高光谱数据集（四种采集距离）",
+  "version": "1.0.0",
+  "repository": "ScienceDB",
+  "dataset_id": null,
+  "doi": null,
+  "license": "CC-BY-4.0",
+  "publication_status": "prepared; new repository record not created yet",
+  "scene_count": 10,
+  "distances_cm": [
+    60,
+    120,
+    180,
+    240
+  ],
+  "channels": [
+    "VNIR",
+    "SWIR"
+  ],
+  "paired_scans": 40,
+  "spectral_cubes": 80,
+  "raw_files": 240,
+  "raw_bytes": 17772412114,
+  "raw_archive_bytes": 7107796067,
+  "code_url": "https://github.com/szr12/swir-blackbody-thermometry",
+  "registered_reference_temperature": false,
+  "raw_scene_ids": [
+    "A4",
+    "baozhuangxiang",
+    "dingwan",
+    "jiujingdeng",
+    "jiujingkuai",
+    "lazhu",
+    "mianhua",
+    "mutan",
+    "yinhuokuai",
+    "yinhuomu"
+  ],
+  "keywords": [
+    "hyperspectral imaging",
+    "real-object combustion",
+    "VNIR",
+    "SWIR",
+    "spectral thermometry",
+    "spatial model transfer"
+  ],
+  "related_blackbody_doi_reserved": "10.57760/sciencedb.016aq"
+}

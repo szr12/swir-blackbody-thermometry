@@ -1,9 +1,10 @@
 # Data access
 
-The original ScienceDB record is being extended with ten real-object combustion
-scenes. The reserved DOI is `10.57760/sciencedb.016aq`. A reserved identifier is
-not evidence of public availability; the record must pass upload verification
-and repository curation before it is advertised as a public download.
+The blackbody record and the ten-scene real-object dataset are separate deposits.
+The blackbody record has reserved DOI `10.57760/sciencedb.016aq`; the real-object
+deposit will receive its own identifier. A reserved identifier is not evidence
+of public availability. Each record must pass upload verification and repository
+curation before it is advertised as a public download.
 
 The existing blackbody collection contains 802 paired VNIR/SWIR scans under two
 illumination conditions at 60 cm, with blackbody setpoints spanning 50–450 °C.

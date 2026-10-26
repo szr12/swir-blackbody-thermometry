@@ -12,8 +12,8 @@
     "sha256": "34e63efa63664e6d8b2e78c5435c3f7924df54fe5728461d9003f02643fbbb3c"
   },
   "README.md": {
-    "bytes": 4167,
-    "sha256": "5ec0d955feb320aa34ea1420ff0c0d83cd1b0eec83146994f8193a8ec7f0936a"
+    "bytes": 4158,
+    "sha256": "1ef2a84b2fd4820b6209b8d2e395840f3b082430211d524f3a157bc36894447c"
   },
   "requirements.txt": {
     "bytes": 98,
@@ -32,8 +32,8 @@
     "sha256": "8649c746b410ebc1f3d95a5c00dd322a2a16f42d6cadf05c6f18d456c666d206"
   },
   "docs/DATA_ACCESS.md": {
-    "bytes": 1217,
-    "sha256": "a5cfba46483d0af7c4510d627dfa48b4476e47905eb48eaa0155fb6cf5b63fbd"
+    "bytes": 1288,
+    "sha256": "bdb58d6f85be606e72232a944137f1f613cc4aafcc892656cb579aebde02820c"
   },
   "optimization_experiment/convergent_colorimetry.py": {
     "bytes": 33715,
@@ -635,6 +635,10 @@
     "bytes": 4979,
     "sha256": "aef898aa097b8200457374bfe24a2c5e00ecadcb3ea721ef5ba896cc53a6d80c"
   },
+  "data/metadata/real_objects/dataset.json": {
+    "bytes": 1231,
+    "sha256": "8b81d27af2a24c8175b70f4a5b6413d328ee50f1bf2ca696b121644f1e702410"
+  },
   "data/metadata/real_objects/dingwan.manifest.json": {
     "bytes": 4800,
     "sha256": "8fc2aa483b5a014bc827d639cb467fa749cf30f090481ac795952373cfb1ad07"
@@ -663,9 +667,13 @@
     "bytes": 2387,
     "sha256": "3cc68b68dfa14ba310ff9aecf86c75c935cf0bca59de876b69f4177e1da3061b"
   },
+  "data/metadata/real_objects/README.md": {
+    "bytes": 3475,
+    "sha256": "43ee8df31ee55929170e1ac5f54a35003bcf1ea2876305095859d9c1187bd72f"
+  },
   "data/metadata/real_objects/real_object_scans.csv": {
-    "bytes": 14237,
-    "sha256": "1b4728331ebbdae6c80cd694a30d4874643dc74a894828c97ebe8484bd75f9a3"
+    "bytes": 14333,
+    "sha256": "66ae2614da803bc906351eb550ceade27e4b1c37238b5c647979c0151fdade23"
   },
   "data/metadata/real_objects/SHA256SUMS.txt": {
     "bytes": 980,

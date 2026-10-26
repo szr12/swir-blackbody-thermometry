@@ -15,14 +15,14 @@ baozhuangxiang,cardboard packaging,240,VNIR,480,452,300,bil,baozhuangxiang_240_F
 baozhuangxiang,cardboard packaging,240,SWIR,640,548,264,bil,baozhuangxiang_240_FS2G268001(900-2500).hdr,baozhuangxiang_240_FS2G268001(900-2500).spe,baozhuangxiang_240_FS2G268001(900-2500).bmp,185180160,False
 baozhuangxiang,cardboard packaging,60,VNIR,480,910,300,bil,baozhuangxiang_60_FS2G268001(400-1000).hdr,baozhuangxiang_60_FS2G268001(400-1000).spe,baozhuangxiang_60_FS2G268001(400-1000).bmp,262080000,False
 baozhuangxiang,cardboard packaging,60,SWIR,640,1267,264,bil,baozhuangxiang_60_FS2G268001(900-2500).hdr,baozhuangxiang_60_FS2G268001(900-2500).spe,baozhuangxiang_60_FS2G268001(900-2500).bmp,428144640,False
-dingwan,metal bowl,120,VNIR,480,823,300,bil,dingwan_120_FS2G268001(400-1000).hdr,dingwan_120_FS2G268001(400-1000).spe,dingwan_120_FS2G268001(400-1000).bmp,237024000,False
-dingwan,metal bowl,120,SWIR,640,1107,264,bil,dingwan_120_FS2G268001(900-2500).hdr,dingwan_120_FS2G268001(900-2500).spe,dingwan_120_FS2G268001(900-2500).bmp,374077440,False
-dingwan,metal bowl,180,VNIR,480,726,300,bil,dingwan_180_FS2G268001(400-1000).hdr,dingwan_180_FS2G268001(400-1000).spe,dingwan_180_FS2G268001(400-1000).bmp,209088000,False
-dingwan,metal bowl,180,SWIR,640,955,264,bil,dingwan_180_FS2G268001(900-2500).hdr,dingwan_180_FS2G268001(900-2500).spe,dingwan_180_FS2G268001(900-2500).bmp,322713600,False
-dingwan,metal bowl,240,VNIR,480,468,300,bil,dingwan_240_FS2G268001(400-1000).hdr,dingwan_240_FS2G268001(400-1000).spe,dingwan_240_FS2G268001(400-1000).bmp,134784000,False
-dingwan,metal bowl,240,SWIR,640,555,264,bil,dingwan_240_FS2G268001(900-2500).hdr,dingwan_240_FS2G268001(900-2500).spe,dingwan_240_FS2G268001(900-2500).bmp,187545600,False
-dingwan,metal bowl,60,VNIR,480,959,300,bil,dingwan_60_FS2G268001(400-1000).hdr,dingwan_60_FS2G268001(400-1000).spe,dingwan_60_FS2G268001(400-1000).bmp,276192000,False
-dingwan,metal bowl,60,SWIR,640,1307,264,bil,dingwan_60_FS2G268001(900-2500).hdr,dingwan_60_FS2G268001(900-2500).spe,dingwan_60_FS2G268001(900-2500).bmp,441661440,False
+dingwan,dingwan (source label),120,VNIR,480,823,300,bil,dingwan_120_FS2G268001(400-1000).hdr,dingwan_120_FS2G268001(400-1000).spe,dingwan_120_FS2G268001(400-1000).bmp,237024000,False
+dingwan,dingwan (source label),120,SWIR,640,1107,264,bil,dingwan_120_FS2G268001(900-2500).hdr,dingwan_120_FS2G268001(900-2500).spe,dingwan_120_FS2G268001(900-2500).bmp,374077440,False
+dingwan,dingwan (source label),180,VNIR,480,726,300,bil,dingwan_180_FS2G268001(400-1000).hdr,dingwan_180_FS2G268001(400-1000).spe,dingwan_180_FS2G268001(400-1000).bmp,209088000,False
+dingwan,dingwan (source label),180,SWIR,640,955,264,bil,dingwan_180_FS2G268001(900-2500).hdr,dingwan_180_FS2G268001(900-2500).spe,dingwan_180_FS2G268001(900-2500).bmp,322713600,False
+dingwan,dingwan (source label),240,VNIR,480,468,300,bil,dingwan_240_FS2G268001(400-1000).hdr,dingwan_240_FS2G268001(400-1000).spe,dingwan_240_FS2G268001(400-1000).bmp,134784000,False
+dingwan,dingwan (source label),240,SWIR,640,555,264,bil,dingwan_240_FS2G268001(900-2500).hdr,dingwan_240_FS2G268001(900-2500).spe,dingwan_240_FS2G268001(900-2500).bmp,187545600,False
+dingwan,dingwan (source label),60,VNIR,480,959,300,bil,dingwan_60_FS2G268001(400-1000).hdr,dingwan_60_FS2G268001(400-1000).spe,dingwan_60_FS2G268001(400-1000).bmp,276192000,False
+dingwan,dingwan (source label),60,SWIR,640,1307,264,bil,dingwan_60_FS2G268001(900-2500).hdr,dingwan_60_FS2G268001(900-2500).spe,dingwan_60_FS2G268001(900-2500).bmp,441661440,False
 jiujingdeng,alcohol lamp,120,VNIR,480,566,300,bil,jiujingdeng_120_FS2G268001(400-1000).hdr,jiujingdeng_120_FS2G268001(400-1000).spe,jiujingdeng_120_FS2G268001(400-1000).bmp,163008000,False
 jiujingdeng,alcohol lamp,120,SWIR,640,728,264,bil,jiujingdeng_120_FS2G268001(900-2500).hdr,jiujingdeng_120_FS2G268001(900-2500).spe,jiujingdeng_120_FS2G268001(900-2500).bmp,246005760,False
 jiujingdeng,alcohol lamp,180,VNIR,480,455,300,bil,jiujingdeng_180_FS2G268001(400-1000).hdr,jiujingdeng_180_FS2G268001(400-1000).spe,jiujingdeng_180_FS2G268001(400-1000).bmp,131040000,False
