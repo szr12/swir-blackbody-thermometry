@@ -16,8 +16,8 @@
     "sha256": "34e63efa63664e6d8b2e78c5435c3f7924df54fe5728461d9003f02643fbbb3c"
   },
   "README.md": {
-    "bytes": 4342,
-    "sha256": "35ccac66b7e167be6dbeca647306a75dd49a93c2950298b6078355dfa034919e"
+    "bytes": 6136,
+    "sha256": "abef9cb68f4f27d57618aae88d36e0441072fdc5613369fff1b4d43fed78dee8"
   },
   "requirements.txt": {
     "bytes": 98,
@@ -36,8 +36,8 @@
     "sha256": "8649c746b410ebc1f3d95a5c00dd322a2a16f42d6cadf05c6f18d456c666d206"
   },
   "docs/DATA_ACCESS.md": {
-    "bytes": 1288,
-    "sha256": "bdb58d6f85be606e72232a944137f1f613cc4aafcc892656cb579aebde02820c"
+    "bytes": 2604,
+    "sha256": "7da30dfe74e249868322c71cbc29abf1e151c69b55df47338a273b5855dd105b"
   },
   "optimization_experiment/convergent_colorimetry.py": {
     "bytes": 33715,
@@ -640,8 +640,8 @@
     "sha256": "aef898aa097b8200457374bfe24a2c5e00ecadcb3ea721ef5ba896cc53a6d80c"
   },
   "data/metadata/real_objects/dataset.json": {
-    "bytes": 1231,
-    "sha256": "8b81d27af2a24c8175b70f4a5b6413d328ee50f1bf2ca696b121644f1e702410"
+    "bytes": 1479,
+    "sha256": "8544c5bdab12911c2dda043d27a91cadf048718ea55c8e097cc9cd235c73c916"
   },
   "data/metadata/real_objects/dingwan.manifest.json": {
     "bytes": 4800,

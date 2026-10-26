@@ -6,7 +6,7 @@
   "dataset_id": null,
   "doi": null,
   "license": "CC-BY-4.0",
-  "publication_status": "prepared; new repository record not created yet",
+  "publication_status": "uploading to a dedicated ScienceDB FTP account; record identifier and public access pending",
   "scene_count": 10,
   "distances_cm": [
     60,
@@ -45,5 +45,9 @@
     "spectral thermometry",
     "spatial model transfer"
   ],
-  "related_blackbody_doi_reserved": "10.57760/sciencedb.016aq"
+  "related_blackbody_doi_reserved": "10.57760/sciencedb.016aq",
+  "landing_page_url": null,
+  "download_url": null,
+  "access_status_date": "2026-10-26",
+  "metadata_url": "https://github.com/szr12/swir-blackbody-thermometry/tree/main/data/metadata/real_objects"
 }
