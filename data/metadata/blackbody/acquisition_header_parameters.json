@@ -1,0 +1,120 @@
+[
+  {
+    "branch": "dark_60cm/swir",
+    "scan_count": 401,
+    "header_field_values": {
+      "exposure time": [
+        "10000"
+      ],
+      "gain": [
+        "1"
+      ],
+      "deducting dark current": [
+        "True"
+      ],
+      "ref adjust": [
+        "False"
+      ],
+      "space binning": [
+        "1"
+      ],
+      "spectrum binning": [
+        "1"
+      ],
+      "sn": [
+        "FS2G268001(900-2500)"
+      ]
+    },
+    "exposure_time_unit": "not_recorded_in_header",
+    "scope": "Verbatim acquisition-header settings; not proof of physical calibration."
+  },
+  {
+    "branch": "dark_60cm/vnir",
+    "scan_count": 401,
+    "header_field_values": {
+      "exposure time": [
+        "5000"
+      ],
+      "gain": [
+        "1"
+      ],
+      "deducting dark current": [
+        "False",
+        "True"
+      ],
+      "ref adjust": [
+        "False"
+      ],
+      "space binning": [
+        "4"
+      ],
+      "spectrum binning": [
+        "4"
+      ],
+      "sn": [
+        "FS2G268001(400-1000)"
+      ]
+    },
+    "exposure_time_unit": "not_recorded_in_header",
+    "scope": "Verbatim acquisition-header settings; not proof of physical calibration."
+  },
+  {
+    "branch": "natural_light_60cm/swir",
+    "scan_count": 401,
+    "header_field_values": {
+      "exposure time": [
+        "10000"
+      ],
+      "gain": [
+        "1"
+      ],
+      "deducting dark current": [
+        "True"
+      ],
+      "ref adjust": [
+        "False"
+      ],
+      "space binning": [
+        "1"
+      ],
+      "spectrum binning": [
+        "1"
+      ],
+      "sn": [
+        "FS2G268001(900-2500)"
+      ]
+    },
+    "exposure_time_unit": "not_recorded_in_header",
+    "scope": "Verbatim acquisition-header settings; not proof of physical calibration."
+  },
+  {
+    "branch": "natural_light_60cm/vnir",
+    "scan_count": 401,
+    "header_field_values": {
+      "exposure time": [
+        "5000"
+      ],
+      "gain": [
+        "1"
+      ],
+      "deducting dark current": [
+        "False",
+        "True"
+      ],
+      "ref adjust": [
+        "False"
+      ],
+      "space binning": [
+        "4"
+      ],
+      "spectrum binning": [
+        "4"
+      ],
+      "sn": [
+        "FS2G268001(400-1000)"
+      ]
+    },
+    "exposure_time_unit": "not_recorded_in_header",
+    "scope": "Verbatim acquisition-header settings; not proof of physical calibration."
+  }
+]

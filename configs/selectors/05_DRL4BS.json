@@ -1,0 +1,9 @@
+{
+  "selector": {
+    "device": "cuda",
+    "random_state": 42,
+    "profile": "paper",
+    "n_bands": 12,
+    "episodes": 10000
+  }
+}

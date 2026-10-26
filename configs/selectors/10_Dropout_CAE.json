@@ -1,0 +1,8 @@
+{
+  "selector": {
+    "device": "cuda",
+    "random_state": 42,
+    "profile": "T2",
+    "n_bands": 12
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "condition": "dark_60cm",
+    "filename": "315_chongxin_anjiaozhun_ceshi_FS2G268001(400-1000).hdr",
+    "reason": "outside canonical 50-450 main sequence or explicitly named repeat"
+  },
+  {
+    "condition": "dark_60cm",
+    "filename": "315_chongxin_anjiaozhun_ceshi_FS2G268001(900-2500).hdr",
+    "reason": "outside canonical 50-450 main sequence or explicitly named repeat"
+  }
+]

@@ -1,0 +1,129 @@
+{
+  "scene": "yinhuokuai",
+  "filename": "real_objects_yinhuokuai_v1.tar.gz",
+  "bytes": 678176617,
+  "sha256": "18805decac12c13cafd35879ff42a14f3a93610494d36130a26e027960c34818",
+  "raw_files": 24,
+  "members": [
+    {
+      "path": "real_objects/fire/yinhuokuai_120_FS2G268001(400-1000).bmp",
+      "bytes": 88033,
+      "sha256": "4c99be5c06a8f3923710a53866fdde50b49125da978352937dc24eab19bb0f0b"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_120_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "b92e571dbbfde68d26fb77f89f91704391db6549bbae7c0dc3d533241e84d29f"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_120_FS2G268001(400-1000).spe",
+      "bytes": 160416000,
+      "sha256": "77931ee626298ddb7aa066d84c77dfa25eac9978e15cdaae0d4bd1acbdd8c248"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_120_FS2G268001(900-2500).bmp",
+      "bytes": 690729,
+      "sha256": "ed93a4575636affffd18669c052838c7842a9e73a9c11b6381c74cc6b0696b16"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_120_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "b42a9c7bc3e8eeaad2efa7800aad9d9be73d4959548c54969dd05dfaab6e295a"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_120_FS2G268001(900-2500).spe",
+      "bytes": 241274880,
+      "sha256": "065694b846f5b0dee935d2455819773560703b9ae18a99f0ca4badc6ae09605f"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_180_FS2G268001(400-1000).bmp",
+      "bytes": 96922,
+      "sha256": "285ba688090ded95174255a9cf027e3c0b6bc8809b6f07ffab76d7d6f41ad489"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_180_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "a76c30b3aad39d109fa6c0cfa9f0c61fe5df4b5efab3fde603546529a57597c1"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_180_FS2G268001(400-1000).spe",
+      "bytes": 179136000,
+      "sha256": "d355f0232b54bdb1bf4d900d28bbb90ca2903e60e864e4a345b1d37864017525"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_180_FS2G268001(900-2500).bmp",
+      "bytes": 776158,
+      "sha256": "39ecf11acb18b19af8feddf6e1b2f6716b0a30978f2696b0f954ece25a589419"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_180_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "fd2e7b8eb911e6e2db16fe0fdc9e24fe6c8b073fb30f606339998af1bbbc223e"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_180_FS2G268001(900-2500).spe",
+      "bytes": 277094400,
+      "sha256": "df762ab3f6ca5c7eda32c998065f35dbbf79544293bea1bea1ae764a34b402a5"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_240_FS2G268001(400-1000).bmp",
+      "bytes": 53139,
+      "sha256": "21bdf14a27331c6a235990c607f1b411cb3d250d6317e606d7320a061b9af608"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_240_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "4dc7d8464aac9290607cea1b654272faf64ec3ef2ebc2ffc39c5d375aa69ba8d"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_240_FS2G268001(400-1000).spe",
+      "bytes": 99072000,
+      "sha256": "4869cdceb6d9aa65f932e43a801f49e0bd15f0fbec45f008d205e57753ce6072"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_240_FS2G268001(900-2500).bmp",
+      "bytes": 364126,
+      "sha256": "304ce98f5cb7851b16fb13d73fcfa55b4fd9df6b39348f0452495c03aaeb57a7"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_240_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "92e9513ba775afc8be1a1f0639a98ccf8d5a3a057697a68fec484428b3498aa2"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_240_FS2G268001(900-2500).spe",
+      "bytes": 129085440,
+      "sha256": "f10640154a3f2208215a665aa76244be3b1b31f6c16d74a50aee733d7a560ffb"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_60_FS2G268001(400-1000).bmp",
+      "bytes": 140334,
+      "sha256": "d76ef03526ee98aa5d077cc1e12159d9362f986a44ddb92beaab5811c795acad"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_60_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "6f20b72168fc4b3dfdd97f27735ab50d64b8575c52fa63ae794f653e8efae493"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_60_FS2G268001(400-1000).spe",
+      "bytes": 254880000,
+      "sha256": "1e445d0f36ca7447a88abdeeae79183b2efe36c3421666aa72f252a08daa725e"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_60_FS2G268001(900-2500).bmp",
+      "bytes": 1189078,
+      "sha256": "9af2550592fe4628730b92ca8381648e77d3019343c10fe0173d08beb3868d4d"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_60_FS2G268001(900-2500).hdr",
+      "bytes": 2652,
+      "sha256": "1fac142c8c72be2c3b05b42c3de92e7aa419f623179b7f47aefa896c92788516"
+    },
+    {
+      "path": "real_objects/fire/yinhuokuai_60_FS2G268001(900-2500).spe",
+      "bytes": 414627840,
+      "sha256": "b52cc6a7050692b9ae74c2f5b98e508e12bc65e167c2ff8561f6d891b1f565f2"
+    }
+  ]
+}

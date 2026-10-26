@@ -1,0 +1,129 @@
+{
+  "scene": "dingwan",
+  "filename": "real_objects_dingwan_v1.tar.gz",
+  "bytes": 802643671,
+  "sha256": "6a5758498cc35035f8710707ac5998f82ac6ee9fefffdd55daa8875f04d567bb",
+  "raw_files": 24,
+  "members": [
+    {
+      "path": "real_objects/fire/dingwan_120_FS2G268001(400-1000).bmp",
+      "bytes": 121444,
+      "sha256": "ba8a4c2de807ffb0040f7e528ec1f3e90f15a8d8c654870d3055460b88d0d618"
+    },
+    {
+      "path": "real_objects/fire/dingwan_120_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "df6d855698d3d107d980f4d71a83d18b2fab5f356cc1868ffdecc92fdf6091da"
+    },
+    {
+      "path": "real_objects/fire/dingwan_120_FS2G268001(400-1000).spe",
+      "bytes": 237024000,
+      "sha256": "60ded0951b33cca10798ef596127c591f3e2b9c12cb9949ce9eb8decba523a68"
+    },
+    {
+      "path": "real_objects/fire/dingwan_120_FS2G268001(900-2500).bmp",
+      "bytes": 1007100,
+      "sha256": "a9014053b70044fe1cb1b522cb3963935046599bcf50f101699b286e0926e43f"
+    },
+    {
+      "path": "real_objects/fire/dingwan_120_FS2G268001(900-2500).hdr",
+      "bytes": 2652,
+      "sha256": "0d50d9a1ea8e63e02f03f3ff5c5e14dbf1a4665abdd5353294b00b39dff2f38a"
+    },
+    {
+      "path": "real_objects/fire/dingwan_120_FS2G268001(900-2500).spe",
+      "bytes": 374077440,
+      "sha256": "57c59b18a3b41909d0cb07fe4c571e24a00ed2b8afa96033768900b95222028d"
+    },
+    {
+      "path": "real_objects/fire/dingwan_180_FS2G268001(400-1000).bmp",
+      "bytes": 107803,
+      "sha256": "3f199a025e1faa853fe71efdb8eafda0f3cee8c5cf20f98ac8b9e5586a36aa7d"
+    },
+    {
+      "path": "real_objects/fire/dingwan_180_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "65d1e241efac378f5be1048056a5299e7ed18951f2197b57bb6aeaa3f7f3dcdb"
+    },
+    {
+      "path": "real_objects/fire/dingwan_180_FS2G268001(400-1000).spe",
+      "bytes": 209088000,
+      "sha256": "2641cc2d09f3fc71ffd2981a233b99af04b5928576e30633b994d69806f03a67"
+    },
+    {
+      "path": "real_objects/fire/dingwan_180_FS2G268001(900-2500).bmp",
+      "bytes": 869948,
+      "sha256": "c7664baffc754e4e2cc303e360594a1dbf66486d69354d9ec3374e88fd6ad5fe"
+    },
+    {
+      "path": "real_objects/fire/dingwan_180_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "337dcf2a658d21e7db72ade710e398b9968dc8f5f4e420541edaba4d69e0dc8f"
+    },
+    {
+      "path": "real_objects/fire/dingwan_180_FS2G268001(900-2500).spe",
+      "bytes": 322713600,
+      "sha256": "d1549e9e3c9c2891297bd5a30bd7d34451caccc27f3eb6c214b75d88c4e4f611"
+    },
+    {
+      "path": "real_objects/fire/dingwan_240_FS2G268001(400-1000).bmp",
+      "bytes": 68668,
+      "sha256": "05f133cf135aae84a9e2cf37b1aeadb7ba7c77ade4f46e5ab9472ee8a123cc94"
+    },
+    {
+      "path": "real_objects/fire/dingwan_240_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "9cea71d2b89106989722cd486975742a54cdee936687caeb79100e1e22f9fcc5"
+    },
+    {
+      "path": "real_objects/fire/dingwan_240_FS2G268001(400-1000).spe",
+      "bytes": 134784000,
+      "sha256": "e0d1987ce3eb876d5e99240e2447ed8fefc4a438ad5db598104b13c5a5d9530c"
+    },
+    {
+      "path": "real_objects/fire/dingwan_240_FS2G268001(900-2500).bmp",
+      "bytes": 506187,
+      "sha256": "2c72dbfc3202f4ac4fab05a9ecbf36d1e78eb57e852b0a8b84a475dfa811efc4"
+    },
+    {
+      "path": "real_objects/fire/dingwan_240_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "f316ccbe6897c9ad5f1aa4c5068e57422c9fc909c9a90e444298a9f7ce5d4353"
+    },
+    {
+      "path": "real_objects/fire/dingwan_240_FS2G268001(900-2500).spe",
+      "bytes": 187545600,
+      "sha256": "d32bbfac69b5f984ecac28023b37c7becef2101259e9f03c92ddffad77794748"
+    },
+    {
+      "path": "real_objects/fire/dingwan_60_FS2G268001(400-1000).bmp",
+      "bytes": 148378,
+      "sha256": "c348897d8bff4ce6a271c6f4a37f47bbed194cb01c13227d166fda4847d7ec3b"
+    },
+    {
+      "path": "real_objects/fire/dingwan_60_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "3e20f82dd8c8ee641e2feeb091e7d1629245a2d954ab8a034e0d2ef179da8df2"
+    },
+    {
+      "path": "real_objects/fire/dingwan_60_FS2G268001(400-1000).spe",
+      "bytes": 276192000,
+      "sha256": "3fb5aebce9081c0b485ca97c7064ec4c016d8bac743784e5ed60ba226b8c4631"
+    },
+    {
+      "path": "real_objects/fire/dingwan_60_FS2G268001(900-2500).bmp",
+      "bytes": 1195754,
+      "sha256": "0bbcc0d52767300ba5d24c111b19c0e586186aff8efa1a905e63205c5a5c2e2d"
+    },
+    {
+      "path": "real_objects/fire/dingwan_60_FS2G268001(900-2500).hdr",
+      "bytes": 2652,
+      "sha256": "4a1f794fa3d77a941c230e670d02e77a9ca72c7f3dd4015795cdf73eb5430ece"
+    },
+    {
+      "path": "real_objects/fire/dingwan_60_FS2G268001(900-2500).spe",
+      "bytes": 441661440,
+      "sha256": "7557ab283a10d640db7f8b6d75def9a1b2c94e0215a03f5326613bb8accbcdf8"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "scene": "lazhu",
+  "filename": "real_objects_lazhu_v1.tar.gz",
+  "bytes": 715830844,
+  "sha256": "29e57d139d446db781fcd4bc734e02aab57739622266df4a53ecd0c79786d985",
+  "raw_files": 24,
+  "members": [
+    {
+      "path": "real_objects/fire/lazhu_120_FS2G268001(400-1000).bmp",
+      "bytes": 101296,
+      "sha256": "d0c300146958aaf8e909cefed5fdf9b953e76e7f356ed32d977b26c0444e2f4d"
+    },
+    {
+      "path": "real_objects/fire/lazhu_120_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "f3a2aca32e4840ee4a9c8f32826f1fdd3897121926b06b803a7d23377190f6e8"
+    },
+    {
+      "path": "real_objects/fire/lazhu_120_FS2G268001(400-1000).spe",
+      "bytes": 178560000,
+      "sha256": "51fbc5e06888c7f125e6acb5e5a62f24183c4dd040eae9617872b2be2c3b2268"
+    },
+    {
+      "path": "real_objects/fire/lazhu_120_FS2G268001(900-2500).bmp",
+      "bytes": 758455,
+      "sha256": "e88dc7f890ac9d9a39dc71888813baaa89fa8f845737b100ea6af749a1e4b685"
+    },
+    {
+      "path": "real_objects/fire/lazhu_120_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "43b5a48c06aaeacf7980805a185d71b4574038377a513dc17224e5e7c31ec1c1"
+    },
+    {
+      "path": "real_objects/fire/lazhu_120_FS2G268001(900-2500).spe",
+      "bytes": 274391040,
+      "sha256": "4f7295eeca2abbd9f4909373a8f3c4bef49e23c8ca8d183bcfbd4a41ed131861"
+    },
+    {
+      "path": "real_objects/fire/lazhu_180_FS2G268001(400-1000).bmp",
+      "bytes": 93970,
+      "sha256": "784f1ec1d5858ef83ee64e4050d23e4069c8d60e8c5d3cbb1fab8f572978ac17"
+    },
+    {
+      "path": "real_objects/fire/lazhu_180_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "897bdfc4dc2fd64ef4f29d8c0800de8d31afb0a31da5f45ad04dd626092ba274"
+    },
+    {
+      "path": "real_objects/fire/lazhu_180_FS2G268001(400-1000).spe",
+      "bytes": 168480000,
+      "sha256": "a872fe923c0f459192bd3dcd1ae38c4c1f1021739e65f37c07922c666c950b1b"
+    },
+    {
+      "path": "real_objects/fire/lazhu_180_FS2G268001(900-2500).bmp",
+      "bytes": 705089,
+      "sha256": "bde60f9594797ee817a02d32dfaad0c8ce20502d8f110b846d7f3105a2d99da4"
+    },
+    {
+      "path": "real_objects/fire/lazhu_180_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "c91ccc7da929128e3d26224264a491c2482b4457d98622bb92c46469d6d60759"
+    },
+    {
+      "path": "real_objects/fire/lazhu_180_FS2G268001(900-2500).spe",
+      "bytes": 255467520,
+      "sha256": "cd269c2faf641f4cdfeff054febfa493befbf6650712b2eea7b7c45aa1a515e7"
+    },
+    {
+      "path": "real_objects/fire/lazhu_240_FS2G268001(400-1000).bmp",
+      "bytes": 57346,
+      "sha256": "dfec17c6035843d097b7309d234a038754e025f02b0b6b13de00fe5e01c108e1"
+    },
+    {
+      "path": "real_objects/fire/lazhu_240_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "da25671e79ca6f16c61d494d797a0db10e4f6e215af0d48a300c8c1956e95cc3"
+    },
+    {
+      "path": "real_objects/fire/lazhu_240_FS2G268001(400-1000).spe",
+      "bytes": 102816000,
+      "sha256": "6894ada559df8b58a2c913981feafd8e45220946b582b61e8351a737c3b0e1d0"
+    },
+    {
+      "path": "real_objects/fire/lazhu_240_FS2G268001(900-2500).bmp",
+      "bytes": 381808,
+      "sha256": "052ec380b5f6d820bf5d5e15964ded706a5a631b5fcfa637eeeb3d35471414b7"
+    },
+    {
+      "path": "real_objects/fire/lazhu_240_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "c1c6e2a2a18419ce8a6c239f6b46b64767616e7ca995d15267dd8df703a95e72"
+    },
+    {
+      "path": "real_objects/fire/lazhu_240_FS2G268001(900-2500).spe",
+      "bytes": 135843840,
+      "sha256": "230e94c4faac8f1a27a607ebeda43883ae24f6849846fb541246da8fdc265951"
+    },
+    {
+      "path": "real_objects/fire/lazhu_60_FS2G268001(400-1000).bmp",
+      "bytes": 156773,
+      "sha256": "1eae4cbcdee2762464e06992e579eaa1fdc33fa69917236ede4444331fc4fc9a"
+    },
+    {
+      "path": "real_objects/fire/lazhu_60_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "ef9f3bafa9fea311c3a210e889fc62c1cb209738e386f5e957a4ca5304cd822a"
+    },
+    {
+      "path": "real_objects/fire/lazhu_60_FS2G268001(400-1000).spe",
+      "bytes": 273888000,
+      "sha256": "08c5e1036a1d83cb054d9605dab2f74d1c28b608d7073bc3ae9e8fd28e4c33a6"
+    },
+    {
+      "path": "real_objects/fire/lazhu_60_FS2G268001(900-2500).bmp",
+      "bytes": 1245159,
+      "sha256": "c35038a957fecc5b204972ecd62656fe02ab5f2c02461ce8826d2697df13c6a5"
+    },
+    {
+      "path": "real_objects/fire/lazhu_60_FS2G268001(900-2500).hdr",
+      "bytes": 2652,
+      "sha256": "2c4fe42a543c3112779a841039103f4e4f909b3768853b427c86c22d1eda9bf6"
+    },
+    {
+      "path": "real_objects/fire/lazhu_60_FS2G268001(900-2500).spe",
+      "bytes": 449771520,
+      "sha256": "d09b77e897a8fa2305b78deec3788a729516dd2fa3fa0c3ca896cfdf4cd82adb"
+    }
+  ]
+}

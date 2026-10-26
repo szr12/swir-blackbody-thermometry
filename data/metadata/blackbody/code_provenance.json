@@ -1,0 +1,26 @@
+{
+  "frozen_runtime_files_sha256": {
+    "convergent_colorimetry.py": "5df75faccb3246355cf5567e2d7f2d985c5fc6147f176d83c1c590bea0afe866",
+    "regional_colorimetry.py": "499dbc454d40da9dbc8cc85131fa3bef4a8c36174865551b3a56f888d31a296f",
+    "run_component_ablations.py": "128dc0d7eff9e4db8c3e8eea0dc223f8d1a5190a85c49faf26f746e4851f4a1d",
+    "traditional_utils.py": "47a95e94719d9a1bce9a22e28585322d10865217abb52f058aa6f379d5d3051d",
+    "blackbody_hsic/colorimetry.py": "11a9847a8855bd489b387e6936cfe1a07287b283bc55bba77ccc158333dcb376",
+    "blackbody_hsic/data.py": "915280f57d5b61e01c09fe73d9dd510f5979f11389a18c64456a5147a7ca0d5b",
+    "blackbody_hsic/evaluation.py": "98b474916705a475248eef286e5c3ba931744cfafaeef744abb601f01356258c",
+    "blackbody_hsic/selector.py": "93f8db664e65a038343b9c72a9b0616adfd89dc0e8b108b03ec0d707994d94e2",
+    "blackbody_hsic/selector_runtime.py": "4051096933f4b53b7afe64a1b57fa63838b673649ca100f2e2e9a4d00c0facbc",
+    "blackbody_hsic/__init__.py": "3dcfd78f3a31b2217beb4c261d447310e8aaaede8bbdac840352e72c6fab84d3",
+    "tests/test_component_ablations.py": "51b8fa38fa0500309d917a3babdbe0a4e41edc097494d82a17d87d719ec18349",
+    "tests/test_log_spectrum_features.py": "adce8253aa6bb5215c623752dd540887569d9d88f99088f4b1b80d0fe92917ce",
+    "tests/test_phase7_traditional_split.py": "1595740cc2e455c1b1affcebae8c2206e352dbdb7138abdadcb3a65e4175e42f"
+  },
+  "processing_sources_sha256": {
+    "analyze_recapture_swir.py": "6128613062034f4fc890edefb62c686fa772455ae4dabad8fa5fe9cfc1c55877",
+    "preprocess_swir_background_corrected.py": "927c163d72a65656089b588e3716583515e7088171c4652117d124980e0ab827",
+    "preprocess_swir_no_background.py": "07bfbf893a90f14196136b1277055ae49f70f871bcc28177c89242a87a3e7860",
+    "preprocess_swir_v3.py": "37c7887cae511adeba29bd90399e3bc6ea9915e214e3ffdc84dc30cbb4ab170d",
+    "spatial_uncertainty.py": "177e48ab111377b1c9eaa29df4dd2a224fb5be05bf52b9a6541009d0bc022e3a",
+    "visualize_sunroom_swir_center_dn.py": "7121b0a53d97f56e74cb2366dc45cef4aaf5507be4bc9a99122b0dad635a768d"
+  },
+  "boundary": "Source snapshots supplied; full retraining and exact historical environment reconstruction are not performed during packaging."
+}

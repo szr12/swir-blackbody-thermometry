@@ -1,0 +1,22 @@
+[
+  {
+    "release_file": "processed\\dark_60cm_swir.npz",
+    "target_source": "preprocessing_validation\\preprocessed_swir_no_background\\swir_roi_no_background.npz",
+    "target_source_sha256": "1e3267a993f41b72e09b2deb2ab0821a0cb23ddd78adcd0628140d5fad069a08",
+    "difference_source": "preprocessing_validation\\preprocessed_swir_background_corrected_v1\\swir_roi_background_corrected.npz",
+    "difference_source_sha256": "81e3a456a1e57bc65d6b7a44e71c21aa4d2dee271927f2173c741f740a3ae2dc",
+    "mapping_note": "target_roi_dn taken from no-background X_raw_features. Historical corrected X_roi_dn is a difference field and is not used as the target.",
+    "uncertainty_semantics": "dark benchmark_uncertainty_dn preserves ROI standard error; natural-light benchmark field preserves existing quadrature uncertainty. Neither is reference-temperature uncertainty.",
+    "temperature_used_for_spectral_smoothing": false
+  },
+  {
+    "release_file": "processed\\natural_light_60cm_swir.npz",
+    "target_source": "preprocessing_validation\\preprocessed_sunroom_60cm\\sunroom_60cm_no_background.npz",
+    "target_source_sha256": "ed8a67650f129abc96fd0176acd84e90959ea10868535c2f328eb231ca085150",
+    "difference_source": "preprocessing_validation\\preprocessed_sunroom_60cm\\sunroom_60cm_background_subtracted.npz",
+    "difference_source_sha256": "b74377804afabb636460d4c2fb8abfdcfba190c3695623c9f709ce1f3c6ed243",
+    "mapping_note": "target_roi_dn taken from no-background X_raw_features. Historical corrected X_roi_dn is a difference field and is not used as the target.",
+    "uncertainty_semantics": "dark benchmark_uncertainty_dn preserves ROI standard error; natural-light benchmark field preserves existing quadrature uncertainty. Neither is reference-temperature uncertainty.",
+    "temperature_used_for_spectral_smoothing": false
+  }
+]

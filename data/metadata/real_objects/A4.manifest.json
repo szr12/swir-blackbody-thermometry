@@ -1,0 +1,129 @@
+{
+  "scene": "A4",
+  "filename": "real_objects_A4_v1.tar.gz",
+  "bytes": 815471199,
+  "sha256": "8f6b8b2766cae888104b44ae37fef26f959efbe0a9f41c199f32957a1b02b52e",
+  "raw_files": 24,
+  "members": [
+    {
+      "path": "real_objects/fire/A4_120_FS2G268001(400-1000).bmp",
+      "bytes": 155348,
+      "sha256": "4ac48bb2c54586695cc5b5f6c01312583071e0fc4f127d2635ca054a5b58b1c0"
+    },
+    {
+      "path": "real_objects/fire/A4_120_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "82568f21010beeadee6b17a0c17ce336d1b54a16140e899c8d100a527cf6eda2"
+    },
+    {
+      "path": "real_objects/fire/A4_120_FS2G268001(400-1000).spe",
+      "bytes": 191520000,
+      "sha256": "d19f9aa846427e7ce63bd148860937e1ae27bb00661c8403cd4230025c993bd7"
+    },
+    {
+      "path": "real_objects/fire/A4_120_FS2G268001(900-2500).bmp",
+      "bytes": 514231,
+      "sha256": "b68ec2bcc4b058f1d4a3f29b619ff902497f154c173f3c510a94f7073ff93009"
+    },
+    {
+      "path": "real_objects/fire/A4_120_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "883c17da01ca358387436a94fc47b73d12aafb93891500bbc04adc1f34007763"
+    },
+    {
+      "path": "real_objects/fire/A4_120_FS2G268001(900-2500).spe",
+      "bytes": 298383360,
+      "sha256": "38e1451bc32ddcb5e225e0c1a794eba126f4cee22ef9d940d4b47f9568f3fb1c"
+    },
+    {
+      "path": "real_objects/fire/A4_180_FS2G268001(400-1000).bmp",
+      "bytes": 98778,
+      "sha256": "7e2d4ec646fce1845f482901b066317644746c97396ea4fee6841a7f4b3e29e6"
+    },
+    {
+      "path": "real_objects/fire/A4_180_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "4faa2eef17833db922fb6f7da1dd6034c10d0912caf31832624af326947611a7"
+    },
+    {
+      "path": "real_objects/fire/A4_180_FS2G268001(400-1000).spe",
+      "bytes": 138240000,
+      "sha256": "c7f96ce13046966c1aafdba8c7f8e99c02aba0925edfad69514dd861287c8de1"
+    },
+    {
+      "path": "real_objects/fire/A4_180_FS2G268001(900-2500).bmp",
+      "bytes": 319611,
+      "sha256": "160271e725b492500558a7c4e5c68a24846f3c6b57331dd31ee985de5eeb209d"
+    },
+    {
+      "path": "real_objects/fire/A4_180_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "d7b5e9807de03a6f6e95111ad253b83245e280d47015a6255c3f2643672026f9"
+    },
+    {
+      "path": "real_objects/fire/A4_180_FS2G268001(900-2500).spe",
+      "bytes": 198696960,
+      "sha256": "9cfefe950a51537a26832c5ccc67e03ae91bf1233d700cbbc4a22139b3f1b362"
+    },
+    {
+      "path": "real_objects/fire/A4_240_FS2G268001(400-1000).bmp",
+      "bytes": 68773,
+      "sha256": "9ef55a3325423d9d206e3fae39e00adc6218d2570462f054ed884ed15981423e"
+    },
+    {
+      "path": "real_objects/fire/A4_240_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "40dc0060067f0f1b9a7a770e3d07200faabe673598091606dc7a73ae0b708a86"
+    },
+    {
+      "path": "real_objects/fire/A4_240_FS2G268001(400-1000).spe",
+      "bytes": 98784000,
+      "sha256": "435c3d12ea050a90b35b409a2d00a84a830d6b798cf1320670204f02f3b11f1b"
+    },
+    {
+      "path": "real_objects/fire/A4_240_FS2G268001(900-2500).bmp",
+      "bytes": 169185,
+      "sha256": "ff279bc09d3e55ba6ff598d5ee9aef336061b7897f5bca221c7b90bd259e2e74"
+    },
+    {
+      "path": "real_objects/fire/A4_240_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "b0e8854832735884dec4093b26a5d3641651036d56f1c398f0525e3ad72dfd20"
+    },
+    {
+      "path": "real_objects/fire/A4_240_FS2G268001(900-2500).spe",
+      "bytes": 126720000,
+      "sha256": "319bc6da0dbe16c906c6ee7fb4b3aff79a1ccc49f89bf8e995ccd42ae50e4071"
+    },
+    {
+      "path": "real_objects/fire/A4_60_FS2G268001(400-1000).bmp",
+      "bytes": 314528,
+      "sha256": "ae7755539a60ac8ff8c5f5c3a3024414c61bc3e2bd8eafee82d22eebb0e043c0"
+    },
+    {
+      "path": "real_objects/fire/A4_60_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "3e25446450e7ab202dbc451f8fd5d5d5479941af7b3188110d4d7021699efe94"
+    },
+    {
+      "path": "real_objects/fire/A4_60_FS2G268001(400-1000).spe",
+      "bytes": 248832000,
+      "sha256": "ccad8afe33595c96aa3ee7126cd0d232ef8f9ff0249b856747b6808026d0510d"
+    },
+    {
+      "path": "real_objects/fire/A4_60_FS2G268001(900-2500).bmp",
+      "bytes": 344168,
+      "sha256": "ba1e5fe3ad0adc835b5d3e0d1207f3da86f547db994e57613265e10cc4b4e75e"
+    },
+    {
+      "path": "real_objects/fire/A4_60_FS2G268001(900-2500).hdr",
+      "bytes": 2652,
+      "sha256": "aed15f5d918e9bad5dac89876eb27b68b3560c4d61d15678a3482c6b3a220e23"
+    },
+    {
+      "path": "real_objects/fire/A4_60_FS2G268001(900-2500).spe",
+      "bytes": 403476480,
+      "sha256": "29dc37a8da05df84c21af864e37f321d0d66c137967d4d274c32c5cc8b248492"
+    }
+  ]
+}

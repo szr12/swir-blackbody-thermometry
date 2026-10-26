@@ -1,0 +1,129 @@
+{
+  "scene": "mutan",
+  "filename": "real_objects_mutan_v1.tar.gz",
+  "bytes": 628067467,
+  "sha256": "3fda40dfce429794ab61a4da7a9d8c6aa4b3733a895679dd65f0062c9847ea16",
+  "raw_files": 24,
+  "members": [
+    {
+      "path": "real_objects/fire/mutan_120_FS2G268001(400-1000).bmp",
+      "bytes": 89078,
+      "sha256": "0d6fbf7ae4ca3123b243b83b8738b5d880699671339dd8e23e20e124b9653436"
+    },
+    {
+      "path": "real_objects/fire/mutan_120_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "0ee9d91ad7d0f62dbb850b79e7d51472ff2bc81d22c3abd4bdc5aaa311cf49ae"
+    },
+    {
+      "path": "real_objects/fire/mutan_120_FS2G268001(400-1000).spe",
+      "bytes": 161568000,
+      "sha256": "b3835f5863949b1c3d768ea0b873157448d2624a2d1c8e3829389825dcaed393"
+    },
+    {
+      "path": "real_objects/fire/mutan_120_FS2G268001(900-2500).bmp",
+      "bytes": 693628,
+      "sha256": "46ef021f3d2753dab4194398aee4e9a670a1b7e89e2670e057a1ebe2d5d89ebe"
+    },
+    {
+      "path": "real_objects/fire/mutan_120_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "79ce6479ebef3b6174c36eb80557d19b7484ac0deada58efc708d5ba149cf149"
+    },
+    {
+      "path": "real_objects/fire/mutan_120_FS2G268001(900-2500).spe",
+      "bytes": 241950720,
+      "sha256": "cfc5207d312ef100a89c4acba3d0e1309f0298c7ef538558cdc289b435adc371"
+    },
+    {
+      "path": "real_objects/fire/mutan_180_FS2G268001(400-1000).bmp",
+      "bytes": 71325,
+      "sha256": "cc2bec9e6e41ab1cdf22b837bd60526b13187f061a361cc0c496530aa6512f02"
+    },
+    {
+      "path": "real_objects/fire/mutan_180_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "6cdd1af411056a76f700906d89bad922ca06876bfa59de7a191dfd5692b6a32b"
+    },
+    {
+      "path": "real_objects/fire/mutan_180_FS2G268001(400-1000).spe",
+      "bytes": 132480000,
+      "sha256": "3c0299e5d105b3825ee19555f2b3782ff605b6429bcc4ac18a8af76f4489ecf8"
+    },
+    {
+      "path": "real_objects/fire/mutan_180_FS2G268001(900-2500).bmp",
+      "bytes": 542456,
+      "sha256": "a37e52cfe3c53eb288125588e038f9da7e5eb62cd56589cd7a4815dad92e4e5a"
+    },
+    {
+      "path": "real_objects/fire/mutan_180_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "0e1b22b4d624f8746392bfd52304418d49c133c421845daa1d0b9993005fe600"
+    },
+    {
+      "path": "real_objects/fire/mutan_180_FS2G268001(900-2500).spe",
+      "bytes": 186869760,
+      "sha256": "30029bd1be76bf5c96945ff1c417d3b0f5fc5fbc8116ea952e7f4bec6812bacc"
+    },
+    {
+      "path": "real_objects/fire/mutan_240_FS2G268001(400-1000).bmp",
+      "bytes": 52677,
+      "sha256": "e81f31ae5ce4884ae17f8d053e3c1a7ce97fca10d410adb89cc809ccc378491a"
+    },
+    {
+      "path": "real_objects/fire/mutan_240_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "40dc0060067f0f1b9a7a770e3d07200faabe673598091606dc7a73ae0b708a86"
+    },
+    {
+      "path": "real_objects/fire/mutan_240_FS2G268001(400-1000).spe",
+      "bytes": 98784000,
+      "sha256": "7a7a836960d4901631e7ffd60b7e1c5bc11614981e947be0e6940764aa581f34"
+    },
+    {
+      "path": "real_objects/fire/mutan_240_FS2G268001(900-2500).bmp",
+      "bytes": 372039,
+      "sha256": "80275a7f8e971b996ee9c54e17b5cca85cddf2b4b19503e502fd2449e8f50a4a"
+    },
+    {
+      "path": "real_objects/fire/mutan_240_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "0d014b6d091a992c615880dda5c0e0dc10d3468012ce28fd783e37987145d327"
+    },
+    {
+      "path": "real_objects/fire/mutan_240_FS2G268001(900-2500).spe",
+      "bytes": 128071680,
+      "sha256": "b5a14654b7f60793b2f8931154b612261b4c320c2cef43810532672e3caf53e9"
+    },
+    {
+      "path": "real_objects/fire/mutan_60_FS2G268001(400-1000).bmp",
+      "bytes": 143561,
+      "sha256": "a7f16673df6a6117544ba7473b127944eb4cb4c51fe6cf342085053883550679"
+    },
+    {
+      "path": "real_objects/fire/mutan_60_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "c7731056ebee1ebc1c95d57b8cc05601b0647df9bf1dcb693b29e59b57697254"
+    },
+    {
+      "path": "real_objects/fire/mutan_60_FS2G268001(400-1000).spe",
+      "bytes": 253728000,
+      "sha256": "28270890ad1548a6b372f1d00e8bde9381d0668935918a436a26c78d7c22b1e7"
+    },
+    {
+      "path": "real_objects/fire/mutan_60_FS2G268001(900-2500).bmp",
+      "bytes": 1144957,
+      "sha256": "4b51ec778fcd0fa57e3f56145effc977cadd038e21ba20a8c583fd53dee5debb"
+    },
+    {
+      "path": "real_objects/fire/mutan_60_FS2G268001(900-2500).hdr",
+      "bytes": 2652,
+      "sha256": "c03e57b9ce290fd7be19e6c222030ba32507d7af17d6e1c327a620b7d47dc26f"
+    },
+    {
+      "path": "real_objects/fire/mutan_60_FS2G268001(900-2500).spe",
+      "bytes": 410234880,
+      "sha256": "360b56d175c0f7f190564dcdfabfcb04a9b4eddf30933b959ace85c93514d189"
+    }
+  ]
+}

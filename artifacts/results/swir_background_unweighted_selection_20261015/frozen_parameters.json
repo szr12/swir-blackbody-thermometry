@@ -1,0 +1,59 @@
+{
+  "status": "frozen_from_validation_only",
+  "selection_metric": "unweighted_rmse",
+  "test_evaluated": false,
+  "background_subtracted": true,
+  "parameters": {
+    "band_count": 12,
+    "redundancy_weight": 0.04,
+    "overlap_c": 55.0,
+    "routing_width_c": 15.0
+  },
+  "best_validation_selection_score_c": 5.300973169727565,
+  "selected_band_indices": [
+    0,
+    6,
+    20,
+    30,
+    33,
+    34,
+    38,
+    55,
+    56,
+    57,
+    59,
+    251
+  ],
+  "selected_wavelengths_nm": [
+    858.45,
+    896.04,
+    983.36,
+    1045.45,
+    1064.03,
+    1070.22,
+    1094.97,
+    1199.87,
+    1206.03,
+    1212.19,
+    1224.5,
+    2424.55
+  ],
+  "data_path": "preprocessing_validation/preprocessed_swir_background_corrected_v1/swir_roi_background_corrected.npz",
+  "k_symmetry": {
+    "center": 12,
+    "values": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16,
+      18,
+      20,
+      22
+    ],
+    "step": 2
+  }
+}

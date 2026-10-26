@@ -1,0 +1,9 @@
+{
+  "selector": {
+    "variant": "BS-Net-FC",
+    "profile": "paper",
+    "device": "cuda",
+    "random_state": 42,
+    "n_bands": 12
+  }
+}

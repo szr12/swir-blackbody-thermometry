@@ -1,0 +1,102 @@
+{
+  "raw_checksums": {
+    "scans": 1604,
+    "files": 3208,
+    "algorithm": "SHA256",
+    "source_size_and_mtime_unchanged_during_hash": true
+  },
+  "processed_arrays": {
+    "conditions": 2,
+    "samples_per_condition": 401,
+    "bands": 264,
+    "target_minus_background_exact_for_all_entries": true
+  },
+  "raw_extraction_smoke_tests": {
+    "setpoint_c": 250,
+    "conditions": 2,
+    "raw_reader_branches_checked": 4,
+    "roi_background_max_absolute_error_dn": 0,
+    "difference_max_absolute_error_dn": 0.0001220703125,
+    "note": "Two SWIR scans re-extracted, not all raw scans. Float32 conversion order explains the small difference-field rounding error."
+  },
+  "verified_reader_environment": {
+    "python": "3.12.14 | packaged by Anaconda, Inc. | (main, Aug 27 2026, 14:46:43) [GCC 14.3.0]",
+    "numpy": "2.0.2",
+    "scipy": "1.15.2"
+  },
+  "server_smoke_checks": [
+    {
+      "command": [
+        "code/reproduce_main_metrics.py"
+      ],
+      "returncode": 0,
+      "stdout": "{\n  \"sample_count\": 61,\n  \"evidence_class\": \"development_evaluation\",\n  \"metrics_recomputed\": {\n    \"rmse\": 6.092404103838358,\n    \"mae\": 3.8111450627100965,\n    \"r2\": 0.9969666726667197,\n    \"mard_percent\": 2.6214897668151207,\n    \"mse\": 37.11738776446646,\n    \"bias\": -0.13952228253798835,\n    \"max_absolute_error\": 26.438369849052236\n  },\n  \"fit_seed\": 104242\n}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "code/read_dataset.py",
+        "--raw-sample",
+        "dark_60cm_0250_vnir"
+      ],
+      "returncode": 0,
+      "stdout": "dark_60cm_0250_vnir (865, 480, 300) uint16\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "code/read_dataset.py",
+        "--raw-sample",
+        "dark_60cm_0250_swir"
+      ],
+      "returncode": 0,
+      "stdout": "dark_60cm_0250_swir (1186, 640, 264) uint16\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "code/reproduce_roi_sample.py",
+        "--condition",
+        "dark_60cm",
+        "--temperature",
+        "250"
+      ],
+      "returncode": 0,
+      "stdout": "dark_60cm_0250_swir roi_mean max_absolute_difference_dn 0.0\ndark_60cm_0250_swir background_median max_absolute_difference_dn 0.0\ndark_60cm_0250_swir difference_annulus max_absolute_difference_dn 0.0001220703125\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "code/read_dataset.py",
+        "--raw-sample",
+        "natural_light_60cm_0250_vnir"
+      ],
+      "returncode": 0,
+      "stdout": "natural_light_60cm_0250_vnir (1045, 480, 300) uint16\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "code/read_dataset.py",
+        "--raw-sample",
+        "natural_light_60cm_0250_swir"
+      ],
+      "returncode": 0,
+      "stdout": "natural_light_60cm_0250_swir (1386, 640, 264) uint16\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "code/reproduce_roi_sample.py",
+        "--condition",
+        "natural_light_60cm",
+        "--temperature",
+        "250"
+      ],
+      "returncode": 0,
+      "stdout": "natural_light_60cm_0250_swir roi_mean max_absolute_difference_dn 0.0\nnatural_light_60cm_0250_swir background_median max_absolute_difference_dn 0.0\nnatural_light_60cm_0250_swir difference_annulus max_absolute_difference_dn 0.0001220703125\n",
+      "stderr": ""
+    }
+  ],
+  "model_training": "Not rerun. Main metrics independently recomputed from all 61 archived development predictions."
+}

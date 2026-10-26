@@ -1,0 +1,30 @@
+[
+  {
+    "condition": "dark_60cm",
+    "sample_count": 401,
+    "band_count": 264,
+    "finite_difference_entries": 105864,
+    "total_difference_entries": 105864,
+    "negative_difference_fraction": 0.0011524219753646188,
+    "difference_dn_min": -329.24365234375,
+    "difference_dn_max": 8895.1650390625,
+    "maximum_bad_pixel_fraction": 0.1279418021440506,
+    "maximum_saturation_fraction": 0.0,
+    "exact_target_minus_background": true,
+    "raw_arrays_preserved": true
+  },
+  {
+    "condition": "natural_light_60cm",
+    "sample_count": 401,
+    "band_count": 264,
+    "finite_difference_entries": 105864,
+    "total_difference_entries": 105864,
+    "negative_difference_fraction": 0.053748205244464595,
+    "difference_dn_min": -33.00001525878906,
+    "difference_dn_max": 8119.240234375,
+    "maximum_bad_pixel_fraction": 0.18632479012012482,
+    "maximum_saturation_fraction": 0.0,
+    "exact_target_minus_background": true,
+    "raw_arrays_preserved": true
+  }
+]

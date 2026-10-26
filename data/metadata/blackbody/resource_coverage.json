@@ -1,0 +1,90 @@
+[
+  {
+    "condition": "dark_60cm",
+    "channel": "VNIR",
+    "scan_count": 401,
+    "temperature_setpoint_min_c": 50,
+    "temperature_setpoint_max_c": 450,
+    "data_bytes": 94326912000,
+    "samples": 480,
+    "bands": 300,
+    "lines_min": 653,
+    "lines_max": 1614,
+    "wavelength_min_nm": 387.08,
+    "wavelength_max_nm": 1007.91,
+    "size_validation_failures": 0,
+    "exposure_time_header_values": [
+      "5000"
+    ],
+    "gain_header_values": [
+      "1"
+    ],
+    "quality_boundary": "All headers and byte sizes checked. Full-frame radiometric quality and reference temperature calibration not independently established."
+  },
+  {
+    "condition": "dark_60cm",
+    "channel": "SWIR",
+    "scan_count": 401,
+    "temperature_setpoint_min_c": 50,
+    "temperature_setpoint_max_c": 450,
+    "data_bytes": 152233297920,
+    "samples": 640,
+    "bands": 264,
+    "lines_min": 997,
+    "lines_max": 2284,
+    "wavelength_min_nm": 858.45,
+    "wavelength_max_nm": 2503.45,
+    "size_validation_failures": 0,
+    "exposure_time_header_values": [
+      "10000"
+    ],
+    "gain_header_values": [
+      "1"
+    ],
+    "quality_boundary": "All headers and byte sizes checked. Full-frame radiometric quality and reference temperature calibration not independently established."
+  },
+  {
+    "condition": "natural_light_60cm",
+    "channel": "VNIR",
+    "scan_count": 401,
+    "temperature_setpoint_min_c": 50,
+    "temperature_setpoint_max_c": 450,
+    "data_bytes": 95568192000,
+    "samples": 480,
+    "bands": 300,
+    "lines_min": 634,
+    "lines_max": 1599,
+    "wavelength_min_nm": 387.08,
+    "wavelength_max_nm": 1007.91,
+    "size_validation_failures": 0,
+    "exposure_time_header_values": [
+      "5000"
+    ],
+    "gain_header_values": [
+      "1"
+    ],
+    "quality_boundary": "All headers and byte sizes checked. Full-frame radiometric quality and reference temperature calibration not independently established."
+  },
+  {
+    "condition": "natural_light_60cm",
+    "channel": "SWIR",
+    "scan_count": 401,
+    "temperature_setpoint_min_c": 50,
+    "temperature_setpoint_max_c": 450,
+    "data_bytes": 153269360640,
+    "samples": 640,
+    "bands": 264,
+    "lines_min": 971,
+    "lines_max": 2242,
+    "wavelength_min_nm": 858.45,
+    "wavelength_max_nm": 2503.45,
+    "size_validation_failures": 0,
+    "exposure_time_header_values": [
+      "10000"
+    ],
+    "gain_header_values": [
+      "1"
+    ],
+    "quality_boundary": "All headers and byte sizes checked. Full-frame radiometric quality and reference temperature calibration not independently established."
+  }
+]

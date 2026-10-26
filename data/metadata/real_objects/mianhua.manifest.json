@@ -1,0 +1,129 @@
+{
+  "scene": "mianhua",
+  "filename": "real_objects_mianhua_v1.tar.gz",
+  "bytes": 667669819,
+  "sha256": "92fa393dfbdf4068f4179a458ed54b7cdb5d7207eb886a86dcf1031b48f7b64a",
+  "raw_files": 24,
+  "members": [
+    {
+      "path": "real_objects/fire/mianhua_120_FS2G268001(400-1000).bmp",
+      "bytes": 113090,
+      "sha256": "6d4883b92b94402eccb7a39929ffd73ca7b9a9a461ce2b66c07f4997691e8c56"
+    },
+    {
+      "path": "real_objects/fire/mianhua_120_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "3f71e7b09304c210bc12ee7fa5060e50de0d6b3598121d95f828aeeeef1b0ed1"
+    },
+    {
+      "path": "real_objects/fire/mianhua_120_FS2G268001(400-1000).spe",
+      "bytes": 163008000,
+      "sha256": "ad9a6b34bea901e391fcd001477316e63bdcfa9495c5008f892e17949b49bb11"
+    },
+    {
+      "path": "real_objects/fire/mianhua_120_FS2G268001(900-2500).bmp",
+      "bytes": 733615,
+      "sha256": "57f758021587f89b2f10861cbe2bc0c56c471d870d2271db22d594a4e5a47ddf"
+    },
+    {
+      "path": "real_objects/fire/mianhua_120_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "697827d4eb233e5e0ab28cb5e3f5b1ed4f24d50b97999ee41f1bd61790b7fab4"
+    },
+    {
+      "path": "real_objects/fire/mianhua_120_FS2G268001(900-2500).spe",
+      "bytes": 246681600,
+      "sha256": "feae3a950b2dd3083509ef17cce86be4b92c0bb00c00f756ad444342bf1399a7"
+    },
+    {
+      "path": "real_objects/fire/mianhua_180_FS2G268001(400-1000).bmp",
+      "bytes": 84506,
+      "sha256": "de942af44aafc95d7685ba5bad36c3a130fb2fd3684efde5d433cee2d61e8bb2"
+    },
+    {
+      "path": "real_objects/fire/mianhua_180_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "352f13d67f4302202ce611f025dda0d85e9ab5da60a3cd9c466ed2ce37503e00"
+    },
+    {
+      "path": "real_objects/fire/mianhua_180_FS2G268001(400-1000).spe",
+      "bytes": 128736000,
+      "sha256": "33334a91b6d88cbe4bfb270ce813961297f87b5727805ec722c8b5b68b44ba7f"
+    },
+    {
+      "path": "real_objects/fire/mianhua_180_FS2G268001(900-2500).bmp",
+      "bytes": 547593,
+      "sha256": "ddd37b62965df3b58037da22126714c7289988205953489f094337e7189f8744"
+    },
+    {
+      "path": "real_objects/fire/mianhua_180_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "2729b4668f3e93eee0a812a3d5a8b2615eed244deeee5acaede3dc224405bfe2"
+    },
+    {
+      "path": "real_objects/fire/mianhua_180_FS2G268001(900-2500).spe",
+      "bytes": 184504320,
+      "sha256": "c6db7f90a96de45685e235f6d82c186e35b2ea456d3e7ac851d78536129f742c"
+    },
+    {
+      "path": "real_objects/fire/mianhua_240_FS2G268001(400-1000).bmp",
+      "bytes": 59900,
+      "sha256": "eda8530dadb29ef4b16210f4792e42ed6ebfe4796ad9b00e0430f7a16b5d6619"
+    },
+    {
+      "path": "real_objects/fire/mianhua_240_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "ded76696831a743092b4f93a221b3914f4e26f7b497e5f5b54e6636cb7f0944f"
+    },
+    {
+      "path": "real_objects/fire/mianhua_240_FS2G268001(400-1000).spe",
+      "bytes": 92448000,
+      "sha256": "031d48ef82c68748affc1cd321cf2f194e775b1c3dd83074ef8bd86ce0803ea6"
+    },
+    {
+      "path": "real_objects/fire/mianhua_240_FS2G268001(900-2500).bmp",
+      "bytes": 342188,
+      "sha256": "f98a316709c477659188ba54d53ee8315cb670ef50cbd10f6eaf5edb30228892"
+    },
+    {
+      "path": "real_objects/fire/mianhua_240_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "a0bb97e4e1964baa3f51cf3f6b0fba67f39d0559f7ad27a92f44ea9129b58379"
+    },
+    {
+      "path": "real_objects/fire/mianhua_240_FS2G268001(900-2500).spe",
+      "bytes": 116244480,
+      "sha256": "957528a86e561225443a79c96c149b2d841965656a20f0b2b6cdb555b64654be"
+    },
+    {
+      "path": "real_objects/fire/mianhua_60_FS2G268001(400-1000).bmp",
+      "bytes": 249452,
+      "sha256": "16282d6e1c5588cfc251c2f3dd726e52195bddc6c6ff0f1aa7292dafa6f38f14"
+    },
+    {
+      "path": "real_objects/fire/mianhua_60_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "173a916971b8c53bf4a368430f7b5f3eaae34c90e82761322732f21d98fb11ad"
+    },
+    {
+      "path": "real_objects/fire/mianhua_60_FS2G268001(400-1000).spe",
+      "bytes": 255168000,
+      "sha256": "07a92d91ee0f0ec00dbb778267881b6681b897fa728978ed263488503e64f71e"
+    },
+    {
+      "path": "real_objects/fire/mianhua_60_FS2G268001(900-2500).bmp",
+      "bytes": 1165100,
+      "sha256": "3810282a401026a368567451cbaf707dfd6c11428773368e97805212487700f4"
+    },
+    {
+      "path": "real_objects/fire/mianhua_60_FS2G268001(900-2500).hdr",
+      "bytes": 2652,
+      "sha256": "ae8f483eb8d15a8478353df334ba324889ffbbf1080d91796b7eba79549f4589"
+    },
+    {
+      "path": "real_objects/fire/mianhua_60_FS2G268001(900-2500).spe",
+      "bytes": 414965760,
+      "sha256": "e44b43495e3d321dc8aa5b2f3f833290fd3c4a8cb000bf4d4b5df6be1973b31f"
+    }
+  ]
+}

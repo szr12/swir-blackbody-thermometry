@@ -1,0 +1,100 @@
+{
+  "experiment_name": "component_ablation_refrozen_k12_ordered_20261013",
+  "data_path": "preprocessing_validation/preprocessed_swir_background_corrected_v1/swir_roi_background_corrected.npz",
+  "feature_key": "X_raw_features",
+  "uncertainty_key": "X_uncertainty",
+  "split": {
+    "strategy": "temperature_ordered_70_15_15",
+    "seed": 42,
+    "train_fraction": 0.7,
+    "validation_fraction": 0.15
+  },
+  "temperature_boundaries_c": [
+    50.0,
+    150.0,
+    250.0,
+    350.0,
+    450.0
+  ],
+  "adaptive_weighting": {
+    "enabled": true,
+    "attention_hidden_units": 16,
+    "attention_loss_weight": 1.0,
+    "error_teacher_blend": 0.5,
+    "power": 0.5,
+    "minimum": 0.5,
+    "maximum": 2.0,
+    "warmup_iterations": 100
+  },
+  "fold_quality_control": {
+    "maximum_median_relative_uncertainty": 0.5,
+    "background_noise_mad_multiplier": 6.0,
+    "maximum_median_bad_pixel_fraction": 0.01,
+    "maximum_saturation_fraction": 0.0001,
+    "protected_wavelengths_nm": [
+      858.45
+    ]
+  },
+  "search_grid": {
+    "band_counts": [
+      12
+    ],
+    "redundancy_weights": [
+      0.04
+    ],
+    "overlap_values_c": [
+      55.0
+    ],
+    "routing_width_values_c": [
+      15.0
+    ],
+    "mi_neighbors": 3
+  },
+  "validation_objective": {
+    "maximum_rmse_c": 12.2,
+    "worst_segment_relative_deviation_weight": 0.25
+  },
+  "evaluate_test_after_search": true,
+  "model": {
+    "target_training_rmse_c": 5.0,
+    "learning_rate": 0.003,
+    "gate_learning_rate": 0.0001,
+    "freeze_gate_after": null,
+    "required_wavelength_ranges_nm": [
+      [
+        1800.0,
+        2500.0
+      ]
+    ],
+    "max_iter": 20000,
+    "evaluation_interval": 10,
+    "required_consecutive_successes": 3,
+    "binarization_weight": 0.01,
+    "hidden_units": [
+      256,
+      256,
+      128
+    ],
+    "intensity_floor_fraction": 1e-06,
+    "absolute_intensity_floor": 1e-09,
+    "device": "cuda",
+    "seed": 4242,
+    "selector_feature_mode": "centered",
+    "regression_feature_mode": "helmert"
+  },
+  "output_root": "optimization_experiment/outputs",
+  "frozen_search_provenance": {
+    "path": "artifacts/results/swir_background_symmetric_search_20261013/frozen_parameters.json",
+    "remote_fallback_path": "optimization_experiment/outputs/swir_background_symmetric_search_20261013/frozen_parameters.json",
+    "sha256": "28c974418d05b902df860bb47320cedaa599575dda0c8a38d1001e71c0548084",
+    "data_sha256": "81e3a456a1e57bc65d6b7a44e71c21aa4d2dee271927f2173c741f740a3ae2dc",
+    "model_config_sha256": "0cdd7ef9c6dcba9b6fd6f9fa6dfcb6dd58ad46e3f32e8532b472d166c889de9e",
+    "runtime_sources_sha256": {
+      "convergent_colorimetry.py": "5df75faccb3246355cf5567e2d7f2d985c5fc6147f176d83c1c590bea0afe866",
+      "traditional_utils.py": "47a95e94719d9a1bce9a22e28585322d10865217abb52f058aa6f379d5d3051d",
+      "regional_colorimetry.py": "499dbc454d40da9dbc8cc85131fa3bef4a8c36174865551b3a56f888d31a296f",
+      "run_phase7_traditional_hyperparameter_search.py": "30a2772d3a7b4b35239fbef782cfda9698c43eb7b1aa8ce4a04073544e4d7870"
+    },
+    "selection_basis": "随机Train及Validation冻结的K12参数；外推组沿用参数但只在低温Train重新选带"
+  }
+}

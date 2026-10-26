@@ -1,0 +1,79 @@
+{
+  "status": "complete",
+  "scene_count": 10,
+  "paired_scans": 40,
+  "raw_files": 240,
+  "raw_bytes": 17772412114,
+  "archives": [
+    {
+      "scene": "A4",
+      "filename": "real_objects_A4_v1.tar.gz",
+      "bytes": 815471199,
+      "sha256": "8f6b8b2766cae888104b44ae37fef26f959efbe0a9f41c199f32957a1b02b52e",
+      "raw_files": 24
+    },
+    {
+      "scene": "baozhuangxiang",
+      "filename": "real_objects_baozhuangxiang_v1.tar.gz",
+      "bytes": 807793259,
+      "sha256": "8460963f39caf93e4813d708694b90649d0fa7b6578531f647585205abea1ef3",
+      "raw_files": 24
+    },
+    {
+      "scene": "dingwan",
+      "filename": "real_objects_dingwan_v1.tar.gz",
+      "bytes": 802643671,
+      "sha256": "6a5758498cc35035f8710707ac5998f82ac6ee9fefffdd55daa8875f04d567bb",
+      "raw_files": 24
+    },
+    {
+      "scene": "jiujingdeng",
+      "filename": "real_objects_jiujingdeng_v1.tar.gz",
+      "bytes": 594554141,
+      "sha256": "7498c39015b70624e8fb31a06185afe5570ff942684bad02476bab55cb837292",
+      "raw_files": 24
+    },
+    {
+      "scene": "jiujingkuai",
+      "filename": "real_objects_jiujingkuai_v1.tar.gz",
+      "bytes": 653882319,
+      "sha256": "b40eaf152e5242e265df8ea59659e0d0f12f727d092816f4eccb2be9675dac68",
+      "raw_files": 24
+    },
+    {
+      "scene": "lazhu",
+      "filename": "real_objects_lazhu_v1.tar.gz",
+      "bytes": 715830844,
+      "sha256": "29e57d139d446db781fcd4bc734e02aab57739622266df4a53ecd0c79786d985",
+      "raw_files": 24
+    },
+    {
+      "scene": "mianhua",
+      "filename": "real_objects_mianhua_v1.tar.gz",
+      "bytes": 667669819,
+      "sha256": "92fa393dfbdf4068f4179a458ed54b7cdb5d7207eb886a86dcf1031b48f7b64a",
+      "raw_files": 24
+    },
+    {
+      "scene": "mutan",
+      "filename": "real_objects_mutan_v1.tar.gz",
+      "bytes": 628067467,
+      "sha256": "3fda40dfce429794ab61a4da7a9d8c6aa4b3733a895679dd65f0062c9847ea16",
+      "raw_files": 24
+    },
+    {
+      "scene": "yinhuokuai",
+      "filename": "real_objects_yinhuokuai_v1.tar.gz",
+      "bytes": 678176617,
+      "sha256": "18805decac12c13cafd35879ff42a14f3a93610494d36130a26e027960c34818",
+      "raw_files": 24
+    },
+    {
+      "scene": "yinhuomu",
+      "filename": "real_objects_yinhuomu_v1.tar.gz",
+      "bytes": 743706731,
+      "sha256": "3c336bfd06c36c438ddd9a95661a6d0663a3ab009e975c7dd60e2992894958ed",
+      "raw_files": 24
+    }
+  ]
+}

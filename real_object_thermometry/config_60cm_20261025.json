@@ -1,0 +1,43 @@
+{
+  "experiment": "real_object_60cm_frozen_maps_20261025",
+  "dataset_root": "data/raw/real_objects/fire",
+  "expected_scene_count": 10,
+  "frozen_parameters_path": "real_object_thermometry/frozen_parameters.json",
+  "model_source_dir": "checkpoints/random/seed_4242/baseline",
+  "runtime_dir": "optimization_experiment",
+  "runtime_sha256": {
+    "convergent_colorimetry.py": "5df75faccb3246355cf5567e2d7f2d985c5fc6147f176d83c1c590bea0afe866",
+    "regional_colorimetry.py": "499dbc454d40da9dbc8cc85131fa3bef4a8c36174865551b3a56f888d31a296f",
+    "traditional_utils.py": "47a95e94719d9a1bce9a22e28585322d10865217abb52f058aa6f379d5d3051d"
+  },
+  "checkpoint_sha256": {
+    "global": "1fb55ca9cfcb408d43287e556d9c98f610428c15359fee8915fa1a917be2899f",
+    "expert_0": "e180e43ce601319d0ba9e5875b09c5699a165ea90700e8819852c25abf43d7fd",
+    "expert_1": "6b89ddc01c75a0001881e4ae93ea80ed5420dd9f47b16931c55a408dbfe20d63",
+    "expert_2": "f806b8730177c0c2812fef0ebc2c677acd9bedfd4622479eeb3085021859d518",
+    "expert_3": "4f43a945a78f476b7b02121bbb07961e5ecaf7c5c7982b00517db705ff438034"
+  },
+  "blackbody_data_path": "preprocessing_validation/preprocessed_swir_background_corrected_v1/swir_roi_background_corrected.npz",
+  "blackbody_data_sha256": "81e3a456a1e57bc65d6b7a44e71c21aa4d2dee271927f2173c741f740a3ae2dc",
+  "parameters": {
+    "band_count": 12,
+    "redundancy_weight": 0.04,
+    "overlap_c": 55.0,
+    "routing_width_c": 15.0
+  },
+  "temperature_boundaries_c": [
+    50,
+    150,
+    250,
+    350,
+    450
+  ],
+  "acquisition_header_values": {
+    "exposure time": "10000",
+    "gain": "1",
+    "deducting dark current": "True"
+  },
+  "device": "cuda",
+  "batch_size": 32768,
+  "frozen_parameters_sha256": "cfa41b61d72b6521592d007070ce5b806e248d39bd3b8b1a781ad17714963ba4"
+}

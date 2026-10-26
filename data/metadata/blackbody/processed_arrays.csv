@@ -1,0 +1,25 @@
+file,array,shape,dtype,unit
+dark_60cm_swir.npz,sample_ids,[401],<U19,see DATA_DICTIONARY.md
+dark_60cm_swir.npz,original_group_ids,[401],<U24,see DATA_DICTIONARY.md
+dark_60cm_swir.npz,temperature_setpoint_c,[401],float64,see DATA_DICTIONARY.md
+dark_60cm_swir.npz,wavelength_nm,[264],float64,see DATA_DICTIONARY.md
+dark_60cm_swir.npz,target_roi_dn,"[401, 264]",float32,DN
+dark_60cm_swir.npz,background_median_dn,"[401, 264]",float32,DN
+dark_60cm_swir.npz,difference_dn,"[401, 264]",float32,DN
+dark_60cm_swir.npz,target_roi_standard_error_dn,"[401, 264]",float32,DN
+dark_60cm_swir.npz,benchmark_uncertainty_dn,"[401, 264]",float32,DN
+dark_60cm_swir.npz,background_mad_dn,"[401, 264]",float32,DN
+dark_60cm_swir.npz,bad_pixel_fraction,"[401, 264]",float32,see DATA_DICTIONARY.md
+dark_60cm_swir.npz,saturation_fraction,"[401, 264]",float32,see DATA_DICTIONARY.md
+natural_light_60cm_swir.npz,sample_ids,[401],<U28,see DATA_DICTIONARY.md
+natural_light_60cm_swir.npz,original_group_ids,[401],<U24,see DATA_DICTIONARY.md
+natural_light_60cm_swir.npz,temperature_setpoint_c,[401],float64,see DATA_DICTIONARY.md
+natural_light_60cm_swir.npz,wavelength_nm,[264],float64,see DATA_DICTIONARY.md
+natural_light_60cm_swir.npz,target_roi_dn,"[401, 264]",float32,DN
+natural_light_60cm_swir.npz,background_median_dn,"[401, 264]",float32,DN
+natural_light_60cm_swir.npz,difference_dn,"[401, 264]",float32,DN
+natural_light_60cm_swir.npz,target_roi_standard_error_dn,"[401, 264]",float32,DN
+natural_light_60cm_swir.npz,benchmark_uncertainty_dn,"[401, 264]",float32,DN
+natural_light_60cm_swir.npz,background_mad_dn,"[401, 264]",float32,DN
+natural_light_60cm_swir.npz,bad_pixel_fraction,"[401, 264]",float32,see DATA_DICTIONARY.md
+natural_light_60cm_swir.npz,saturation_fraction,"[401, 264]",float32,see DATA_DICTIONARY.md

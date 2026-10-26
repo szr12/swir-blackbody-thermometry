@@ -1,0 +1,129 @@
+{
+  "scene": "baozhuangxiang",
+  "filename": "real_objects_baozhuangxiang_v1.tar.gz",
+  "bytes": 807793259,
+  "sha256": "8460963f39caf93e4813d708694b90649d0fa7b6578531f647585205abea1ef3",
+  "raw_files": 24,
+  "members": [
+    {
+      "path": "real_objects/fire/baozhuangxiang_120_FS2G268001(400-1000).bmp",
+      "bytes": 112240,
+      "sha256": "050cc7a6b714686d3e65cf705d41a32710c9eae73e93c0d90b44d6093dd1c614"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_120_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "4a858f30c1000ab9ee9028e7eca1956fa0eef8052eb28f9b7704bc23147b66a5"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_120_FS2G268001(400-1000).spe",
+      "bytes": 160704000,
+      "sha256": "c154e48274fb0f208643625450274a681669a7a4280080931a432ab52b7a773d"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_120_FS2G268001(900-2500).bmp",
+      "bytes": 609188,
+      "sha256": "345621fd0d7c0abe0d70a47360f7b550555d6095246e3e89417b2900be0bf72c"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_120_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "11a5ecdccc0e3dc912479dc86b29e968bfe3ce4969beb0cb3f909ef70e97b6fe"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_120_FS2G268001(900-2500).spe",
+      "bytes": 241612800,
+      "sha256": "f4931e5b0f31698b49074a0a8e17f189770fec07ca35d833bbca25f27f9590b0"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_180_FS2G268001(400-1000).bmp",
+      "bytes": 94178,
+      "sha256": "5e5eb3a27dd1d27eebc6f2ce24353f9346790ae185801a499841f75656401e59"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_180_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "9d105d8af6d103dfa311ee69e686d2a346360ef5c9c29789efa8b44e960c55a3"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_180_FS2G268001(400-1000).spe",
+      "bytes": 144576000,
+      "sha256": "202a28a794ea1f0d658ce35a462f0f72d8f387ad5077d43c92df7740d9e07691"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_180_FS2G268001(900-2500).bmp",
+      "bytes": 566377,
+      "sha256": "8aa141752f16abd68346214fc6e94a71a563c68ae7e3875bb4cbabbb7edc21e8"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_180_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "b75430193656da7b646e5282c52db0cf48dd1ef76633a4ad2116b5da28beef40"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_180_FS2G268001(900-2500).spe",
+      "bytes": 209172480,
+      "sha256": "f7151944b829a4ef63c78df535dacd1b0164ca6db73dd4a21610e12e98b4b82e"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_240_FS2G268001(400-1000).bmp",
+      "bytes": 79793,
+      "sha256": "69ad6a1e5c258e28d8b38c4d92db7fa1b13a9c5d260682fd1c224b56c08233af"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_240_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "093216e0a308ef0721ebd56da5a687cb207b21272509222fb7d6004aa79b71f3"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_240_FS2G268001(400-1000).spe",
+      "bytes": 130176000,
+      "sha256": "7b7ec09e82a45734a89df6ef1543a9f8face496db030b8896798d61c2acd587b"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_240_FS2G268001(900-2500).bmp",
+      "bytes": 510476,
+      "sha256": "1254e04a9c06efd825d654487347c4f3e4becdda86306ce88dc49c429b408b5b"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_240_FS2G268001(900-2500).hdr",
+      "bytes": 2651,
+      "sha256": "3e8d773d527131d1ca864c565a4ffb1f49da10cc9b0aefb5cf5c41e686329928"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_240_FS2G268001(900-2500).spe",
+      "bytes": 185180160,
+      "sha256": "e3d7bda314bbb986cd1e84a0fb292ac5a7ad3e773d8e3a3752b84ef0a7bb57aa"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_60_FS2G268001(400-1000).bmp",
+      "bytes": 311686,
+      "sha256": "8989aa904db044e482acc958e5724fb20803aaa98cb9274887b22c42696f4962"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_60_FS2G268001(400-1000).hdr",
+      "bytes": 2654,
+      "sha256": "777038cafdccde1590128c3bffd1826a287271f7556f0554dbc5cf91f008515e"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_60_FS2G268001(400-1000).spe",
+      "bytes": 262080000,
+      "sha256": "2989646672d4a81e9714be02ee3c8d0dd1d2be6b4d9ad9ab256d8d2e1d95ec93"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_60_FS2G268001(900-2500).bmp",
+      "bytes": 747826,
+      "sha256": "ddd5d7b25b1e1a3af389811f23c923c83d8f8fc563cf1f81b7f84d2020f65c07"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_60_FS2G268001(900-2500).hdr",
+      "bytes": 2652,
+      "sha256": "384368fede1afc5c8821b6f09220139b408da88264b27344de4165fcff66378e"
+    },
+    {
+      "path": "real_objects/fire/baozhuangxiang_60_FS2G268001(900-2500).spe",
+      "bytes": 428144640,
+      "sha256": "a0a7e2219f38ccd5c0b199e746e11d71cd6c2dd15beafb9ac921f47fec9b780c"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "selector": {
+    "n_bands": 12,
+    "device": "cpu",
+    "dtype": "float64"
+  }
+}
