@@ -62,6 +62,9 @@ Table 5 compares complete pipelines, not decoder-only repeats of one fixed subse
 The legacy orchestration scripts record historical output-directory conventions.
 Use the portable `tools/reproduce_pipeline.py` entry point for new benchmark runs.
 Raw real-object inference requires the original cubes and released frozen weights.
+Download `frozen_models_seed4242.zip` from
+https://github.com/szr12/swir-blackbody-thermometry/releases/tag/v0.1.0
+and extract it into the repository root to create `checkpoints/`.
 Update the local raw-data paths in the supplied config; never choose parameters
 using the Test set or real-object reference-temperature descriptions.
 

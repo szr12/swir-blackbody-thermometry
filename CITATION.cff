@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this versioned research-code release."
+type: software
+title: "SWIR blackbody thermometry and spectral datasets"
+version: "0.1.0"
+date-released: "2026-10-26"
+license: MIT
+repository-code: "https://github.com/szr12/swir-blackbody-thermometry"
+authors:
+  - name: "szr12"

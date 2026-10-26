@@ -3,6 +3,10 @@
     "bytes": 104,
     "sha256": "eca7d86904b537e73ddb421ee6fdd50922e10dc4e95dca75e837e80b23a1d68a"
   },
+  "CITATION.cff": {
+    "bytes": 319,
+    "sha256": "1fae65f355ff20081c6c428ce3c05f0c3e1e25f21376d846de7521c04353728d"
+  },
   "DATA_LICENSE.md": {
     "bytes": 401,
     "sha256": "247df640b460c8b8035a1761c9440677e7ef57ebe360f38ca17ca038d58c71b4"
@@ -12,8 +16,8 @@
     "sha256": "34e63efa63664e6d8b2e78c5435c3f7924df54fe5728461d9003f02643fbbb3c"
   },
   "README.md": {
-    "bytes": 4158,
-    "sha256": "1ef2a84b2fd4820b6209b8d2e395840f3b082430211d524f3a157bc36894447c"
+    "bytes": 4342,
+    "sha256": "35ccac66b7e167be6dbeca647306a75dd49a93c2950298b6078355dfa034919e"
   },
   "requirements.txt": {
     "bytes": 98,
