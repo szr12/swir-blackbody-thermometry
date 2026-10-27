@@ -1,0 +1,32 @@
+{
+  "seed": 4245,
+  "role": "expert_2",
+  "initialization_seed": 4248,
+  "n_fit": 149,
+  "n_validation": 29,
+  "converged": true,
+  "iterations": 140,
+  "restored_iteration": 140,
+  "training_rmse_c": 3.7549302599975274,
+  "validation_rmse_c": 4.365730635822142,
+  "minimum_observed_validation_rmse_c": 3.9068572618772013,
+  "minimum_observed_validation_iteration": 100,
+  "last_iteration_validation_rmse_c": 4.365730635822142,
+  "selected_positions": [
+    0,
+    14,
+    30,
+    44,
+    47,
+    51,
+    53,
+    57,
+    61,
+    64,
+    65,
+    241
+  ],
+  "elapsed_seconds": 0.09193138597765937,
+  "predictor_parameter_count": 101889,
+  "test_evaluated": false
+}

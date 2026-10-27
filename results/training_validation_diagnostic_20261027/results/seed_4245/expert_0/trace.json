@@ -1,0 +1,148 @@
+{
+  "trace": [
+    {
+      "iteration": 10.0,
+      "training_rmse_c": 11.089459419250488,
+      "training_adaptive_rmse_c": 11.089459419250488,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 12.978505382754442
+    },
+    {
+      "iteration": 20.0,
+      "training_rmse_c": 9.315866470336914,
+      "training_adaptive_rmse_c": 9.315866470336914,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 12.877260395443278
+    },
+    {
+      "iteration": 30.0,
+      "training_rmse_c": 7.952556610107422,
+      "training_adaptive_rmse_c": 7.952556610107422,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 11.054709021037304
+    },
+    {
+      "iteration": 40.0,
+      "training_rmse_c": 7.089926719665527,
+      "training_adaptive_rmse_c": 7.089926719665527,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 10.453524769805227
+    },
+    {
+      "iteration": 50.0,
+      "training_rmse_c": 6.740351676940918,
+      "training_adaptive_rmse_c": 6.740351676940918,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 10.301194716652722
+    },
+    {
+      "iteration": 60.0,
+      "training_rmse_c": 6.469741344451904,
+      "training_adaptive_rmse_c": 6.469741344451904,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 10.100238878011613
+    },
+    {
+      "iteration": 70.0,
+      "training_rmse_c": 6.289708614349365,
+      "training_adaptive_rmse_c": 6.289708614349365,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 10.017053851533959
+    },
+    {
+      "iteration": 80.0,
+      "training_rmse_c": 6.105595588684082,
+      "training_adaptive_rmse_c": 6.105595588684082,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 10.062133299464456
+    },
+    {
+      "iteration": 90.0,
+      "training_rmse_c": 5.949484348297119,
+      "training_adaptive_rmse_c": 5.949484348297119,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 10.119095052825307
+    },
+    {
+      "iteration": 100.0,
+      "training_rmse_c": 5.785796165466309,
+      "training_adaptive_rmse_c": 5.785796165466309,
+      "attention_weight_min": 1.0,
+      "attention_weight_max": 1.0,
+      "attention_loss": 0.0,
+      "validation_rmse_c": 10.137174439995198
+    },
+    {
+      "iteration": 110.0,
+      "training_rmse_c": 5.597756862640381,
+      "training_adaptive_rmse_c": 6.1575703620910645,
+      "attention_weight_min": 0.6336283683776855,
+      "attention_weight_max": 1.4441418647766113,
+      "attention_loss": 0.1474018543958664,
+      "validation_rmse_c": 10.225576263143967
+    },
+    {
+      "iteration": 120.0,
+      "training_rmse_c": 5.3458428382873535,
+      "training_adaptive_rmse_c": 6.060460567474365,
+      "attention_weight_min": 0.5492679476737976,
+      "attention_weight_max": 1.6146095991134644,
+      "attention_loss": 0.1410030573606491,
+      "validation_rmse_c": 10.330289012034628
+    },
+    {
+      "iteration": 130.0,
+      "training_rmse_c": 4.99662446975708,
+      "training_adaptive_rmse_c": 5.506296157836914,
+      "attention_weight_min": 0.6024839282035828,
+      "attention_weight_max": 1.4704736471176147,
+      "attention_loss": 0.13231058418750763,
+      "validation_rmse_c": 10.380017767611474
+    },
+    {
+      "iteration": 140.0,
+      "training_rmse_c": 4.551825523376465,
+      "training_adaptive_rmse_c": 4.903353214263916,
+      "attention_weight_min": 0.616120457649231,
+      "attention_weight_max": 1.3587533235549927,
+      "attention_loss": 0.12883956730365753,
+      "validation_rmse_c": 10.412690653661524
+    },
+    {
+      "iteration": 150.0,
+      "training_rmse_c": 4.070028305053711,
+      "training_adaptive_rmse_c": 4.354776859283447,
+      "attention_weight_min": 0.581256091594696,
+      "attention_weight_max": 1.3391045331954956,
+      "attention_loss": 0.12760722637176514,
+      "validation_rmse_c": 10.397012926132472
+    },
+    {
+      "iteration": 160.0,
+      "training_rmse_c": 4.053046703338623,
+      "training_adaptive_rmse_c": 4.32772970199585,
+      "attention_weight_min": 0.5852088928222656,
+      "attention_weight_max": 1.3315644264221191,
+      "attention_loss": 0.14596261084079742,
+      "validation_rmse_c": 10.378872591508191
+    }
+  ]
+}

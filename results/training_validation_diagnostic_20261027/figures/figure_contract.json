@@ -1,0 +1,16 @@
+{
+  "question": "Do native regional MLP fits show a training-validation gap under the existing stopping rule?",
+  "panels": {
+    "a-e": "five individual seed trajectories per native model; raw values, no smoothing or extrapolation",
+    "f": "five paired endpoint RMSE values for the fused ensemble"
+  },
+  "n": "five algorithm seeds on one fixed acquisition-batch split; no independent acquisition repeats",
+  "uncertainty": "individual trajectories and points; no aggregate confidence intervals or error bars",
+  "colors": {
+    "train": "#205A89",
+    "validation": "#B25D19"
+  },
+  "test_evaluated": false,
+  "source_data": "learning_curves.csv and ensemble_summary.csv",
+  "axis_limits_checked_against_all_values": true
+}

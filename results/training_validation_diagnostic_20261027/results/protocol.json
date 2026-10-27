@@ -1,0 +1,52 @@
+{
+  "purpose": "Train-only native MLP learning-curve diagnostic",
+  "manifest_sha256": "d6a4821dcf2967628f05cb0e3f5acdf27f101409c0ce991113f43f2a3ed01c0c",
+  "test_evaluated": false,
+  "training_validation_merged": false,
+  "validation_used_for_stopping": false,
+  "validation_used_for_checkpoint_selection": false,
+  "selection_rerun": false,
+  "expert_validation_scope": "same predeclared overlapping temperature interval as its training scope; diagnostic only",
+  "source_ast_changes": "one observation callback after existing training-trace append",
+  "seeds": [
+    4242,
+    4243,
+    4244,
+    4245,
+    4246
+  ],
+  "n_train": 280,
+  "n_validation": 60,
+  "torch": "2.12.1+cu130",
+  "numpy": "2.0.2",
+  "device": "cuda",
+  "parameters": {
+    "target_training_rmse_c": 5.0,
+    "learning_rate": 0.003,
+    "max_iter": 20000,
+    "evaluation_interval": 10,
+    "required_consecutive_successes": 3,
+    "hidden_units": [
+      256,
+      256,
+      128
+    ],
+    "intensity_floor_fraction": 1e-06,
+    "absolute_intensity_floor": 1e-09,
+    "adaptive_weighting": true,
+    "attention_hidden_units": 16,
+    "attention_loss_weight": 1.0,
+    "adaptive_weight_power": 0.5,
+    "adaptive_weight_minimum": 0.5,
+    "adaptive_weight_maximum": 2.0,
+    "adaptive_weight_warmup_iterations": 100,
+    "error_teacher_blend": 0.5,
+    "device": "cuda",
+    "regression_feature_mode": "helmert"
+  },
+  "runtime_sha256": {
+    "convergent_colorimetry.py": "5df75faccb3246355cf5567e2d7f2d985c5fc6147f176d83c1c590bea0afe866",
+    "regional_colorimetry.py": "499dbc454d40da9dbc8cc85131fa3bef4a8c36174865551b3a56f888d31a296f",
+    "traditional_utils.py": "47a95e94719d9a1bce9a22e28585322d10865217abb52f058aa6f379d5d3051d"
+  }
+}

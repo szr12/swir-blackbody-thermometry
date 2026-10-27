@@ -61,6 +61,10 @@ The random no-background ablation converged in 3/5 attempts; its two failed runs
 are retained separately and excluded from the reported converged-run means.
 Table 5 compares complete pipelines, not decoder-only repeats of one fixed subset.
 
+## Training–validation diagnostics
+
+[Five-seed learning curves and reproducible source data](results/training_validation_diagnostic_20261027/) cover the native global model and four regional experts. Train-only fused RMSE was 3.530 ± 0.206 °C, versus 9.233 ± 4.036 °C on Validation. Some trajectories show overfitting concerns; this does not establish optimal network capacity. Test was excluded and the final benchmark tables are unchanged.
+
 ## Layout
 
 | Directory | Contents |
